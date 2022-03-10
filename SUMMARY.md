@@ -29,14 +29,7 @@
   * [💵 Dollar](cubimod-survival/currencies/dollar.md)
   * [💎 Crystal](cubimod-survival/currencies/crystal.md)
 * [🚶♂ NPC](cubimod-survival/npc/README.md)
-  * [Trading NPC](cubimod-survival/npc/trading-npc/README.md)
-    * [Blacksmith](cubimod-survival/npc/trading-npc/blacksmith.md)
-    * [Bartender](cubimod-survival/npc/trading-npc/bartender.md)
-  * [Interface NPC](cubimod-survival/npc/interface-npc/README.md)
-    * [Battle Pass](cubimod-survival/npc/interface-npc/battle-pass.md)
-    * [Crystal Shop](cubimod-survival/npc/interface-npc/crystal-shop.md)
-    * [Server Shop](cubimod-survival/npc/interface-npc/server-shop.md)
-    * [Mystery Crates](cubimod-survival/npc/interface-npc/mystery-crates.md)
+  * [Page 1](cubimod-survival/npc/page-1.md)
 * [👨🏫 Ore Mining Guide](cubimod-survival/ore-mining-guide.md)
 
 ## OLD DOCS

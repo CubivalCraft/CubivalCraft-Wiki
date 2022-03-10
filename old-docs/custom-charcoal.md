@@ -15,7 +15,7 @@ There are 4 types of charcoal:
 
 ## How to obtain it?
 
-### [Blacksmith](../cubimod-survival/npc/trading-npc/blacksmith.md) Trading
+### [Blacksmith](broken-reference) Trading
 
 ![Trading NPC at the blacksmith](<../.gitbook/assets/image (94).png>)
 
