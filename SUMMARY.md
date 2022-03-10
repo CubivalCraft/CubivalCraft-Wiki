@@ -25,6 +25,8 @@
   * [💎 Crystal](cubimod-survival/currencies/crystal.md)
 * [🚶♂ NPC](cubimod-survival/npc/README.md)
   * [Bartender](cubimod-survival/npc/bartender.md)
+* [Custom Enchant](https://cubivalcraft.com/customenchant)
+* [Fun Command](https://cubivalcraft.com/fun/)
 
 ## OLD DOCS
 
