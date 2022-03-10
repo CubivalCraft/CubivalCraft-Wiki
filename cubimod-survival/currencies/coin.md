@@ -22,7 +22,7 @@ Other than that, "Coin" is one of the rewards in Battle Pass. By completing the 
 
 In our survival server, you will find two types of vending machines outside the bar.
 
-![Vending Machines](<../../.gitbook/assets/image (78).png>)
+![Vending Machines](<../../.gitbook/assets/image (78) (1).png>)
 
 * Food Vending Machine (Blue, Glistering Melon)
 * Beverage Vending Machine (Green, Honey Bottle)

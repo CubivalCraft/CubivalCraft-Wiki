@@ -37,7 +37,7 @@ There are 4 types of charcoal:
 
 #### Wisteria Log
 
-![](<../.gitbook/assets/image (137).png>)
+![](<../.gitbook/assets/image (137) (1).png>)
 
 #### Twilight Log
 

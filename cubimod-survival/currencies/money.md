@@ -12,7 +12,7 @@ You can use "Money" to buy items from the server shop.
 
 
 
-![GUI of Server Shop (/shop)](<../../.gitbook/assets/image (82) (1).png>)
+![GUI of Server Shop (/shop)](<../../.gitbook/assets/image (82) (1) (1).png>)
 
 "Money" is also very important in daily player transactions such as auction houses and player shops.\
 \

@@ -28,7 +28,7 @@
 
 ### Pickaxe
 
-![](<../../.gitbook/assets/image (23).png>)
+![](<../../.gitbook/assets/image (23) (1).png>)
 
 ### Axe
 

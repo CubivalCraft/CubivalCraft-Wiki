@@ -4,9 +4,9 @@
 How to Enable server resources pack?
 {% endhint %}
 
-![](<../../.gitbook/assets/image (46).png>)
+![](<../../.gitbook/assets/image (46) (1).png>)
 
 ![](<../../.gitbook/assets/image (135).png>)
 
-![](<../../.gitbook/assets/image (138).png>)
+![](<../../.gitbook/assets/image (138) (1).png>)
 
