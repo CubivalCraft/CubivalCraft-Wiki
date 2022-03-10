@@ -2,7 +2,7 @@
 
 ## Block
 
-![](<../../.gitbook/assets/image (37).png>)
+![](<../../.gitbook/assets/image (38).png>)
 
 ![](<../../.gitbook/assets/image (2).png>)
 
@@ -10,35 +10,35 @@
 
 ### Helmet
 
-![](<../../.gitbook/assets/image (81).png>)
+![](<../../.gitbook/assets/image (83).png>)
 
 ### Chestplate
 
-![](<../../.gitbook/assets/image (28).png>)
+![](<../../.gitbook/assets/image (29).png>)
 
 ### Leggings
 
-![](<../../.gitbook/assets/image (108).png>)
+![](<../../.gitbook/assets/image (110).png>)
 
 ### Boots
 
-![](<../../.gitbook/assets/image (69).png>)
+![](<../../.gitbook/assets/image (71).png>)
 
 ## Weapon
 
 ### Sword
 
-![](<../../.gitbook/assets/image (59).png>)
+![](<../../.gitbook/assets/image (61).png>)
 
 ## Tools
 
 ### Pickaxe
 
-![](<../../.gitbook/assets/image (104).png>)
+![](<../../.gitbook/assets/image (106).png>)
 
 ### Axe
 
-![](<../../.gitbook/assets/image (100).png>)
+![](<../../.gitbook/assets/image (102).png>)
 
 ### Shovel
 

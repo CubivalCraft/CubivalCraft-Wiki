@@ -10,7 +10,7 @@
 
 ### Chestplate
 
-****![](<../../.gitbook/assets/image (47).png>)****
+****![](<../../.gitbook/assets/image (49).png>)****
 
 ### Leggings
 
@@ -18,10 +18,10 @@
 
 ### Boots
 
-****![](<../../.gitbook/assets/image (60).png>)****
+****![](<../../.gitbook/assets/image (62).png>)****
 
 ## Weapon
 
 ### Sword
 
-****![](<../../.gitbook/assets/image (49).png>)****
+****![](<../../.gitbook/assets/image (51).png>)****

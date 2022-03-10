@@ -18,7 +18,7 @@ Then, find the trading NPC in the bar. You can trade 64x "Coins" for 1x "Dollar"
 \*Note\* Once "Coins" are converted into "Dollar", they cannot be traded back into "Coins"
 {% endhint %}
 
-![Trading NPC in the bar](<../../.gitbook/assets/image (56).png>)
+![Trading NPC in the bar](<../../.gitbook/assets/image (58).png>)
 
 ## Where to use it?
 
@@ -28,4 +28,4 @@ In the spawn, you will find a trading NPC at the blacksmith. You can trade "Doll
 * Custom Weapons & Armors
 * Custom Tools
 
-![Blacksmith](<../../.gitbook/assets/image (63).png>)
+![Blacksmith](<../../.gitbook/assets/image (65).png>)

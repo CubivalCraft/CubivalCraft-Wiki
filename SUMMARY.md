@@ -22,6 +22,7 @@
   * [Furniture](cubimod-survival/recipe/furniture.md)
   * [Garden](cubimod-survival/recipe/garden.md)
   * [Shop](cubimod-survival/recipe/shop.md)
+  * [Shield](cubimod-survival/recipe/shield.md)
 * [🪙 Currencies](cubimod-survival/currencies/README.md)
   * [💰 Money](cubimod-survival/currencies/money.md)
   * [🪙 Coin](cubimod-survival/currencies/coin.md)

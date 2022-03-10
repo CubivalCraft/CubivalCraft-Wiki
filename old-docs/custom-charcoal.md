@@ -17,11 +17,11 @@ There are 4 types of charcoal:
 
 ### [Blacksmith](../cubimod-survival/npc/trading-npc/blacksmith.md) Trading
 
-![Trading NPC at the blacksmith](<../.gitbook/assets/image (92).png>)
+![Trading NPC at the blacksmith](<../.gitbook/assets/image (94).png>)
 
 #### Trade Examples
 
-![](<../.gitbook/assets/image (51).png>)
+![](<../.gitbook/assets/image (53).png>)
 
 8x Coals + 1x [Dollar](../cubimod-survival/currencies/dollar.md) = Any Charcoals
 
@@ -33,11 +33,11 @@ There are 4 types of charcoal:
 
 #### Sakura Log
 
-![](<../.gitbook/assets/image (122).png>)
+![](<../.gitbook/assets/image (124).png>)
 
 #### Wisteria Log
 
-![](<../.gitbook/assets/image (135).png>)
+![](<../.gitbook/assets/image (137).png>)
 
 #### Twilight Log
 

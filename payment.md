@@ -20,5 +20,5 @@ Please PM Darrien #0022 after you tranfer
 Touch 'n Go eWallet Qr Code&#x20;
 {% endhint %}
 
-![](<.gitbook/assets/image (102).png>)
+![](<.gitbook/assets/image (104).png>)
 

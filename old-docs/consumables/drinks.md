@@ -6,7 +6,7 @@ Introducing custom drinks that fill thirst.
 
 ### [Vending Machine](drinks.md#vending-machine-trades) Trades
 
-### ![](<../../.gitbook/assets/image (129).png>)
+### ![](<../../.gitbook/assets/image (131).png>)
 
 Type of [Currency](../../cubimod-survival/currencies/) = "[Coin](../../cubimod-survival/currencies/coin.md)"
 

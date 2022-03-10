@@ -4,25 +4,25 @@
 
 ### Helmet
 
-![](<../../.gitbook/assets/image (77).png>)
+![](<../../.gitbook/assets/image (79).png>)
 
 ### Chestplate
 
-![](<../../.gitbook/assets/image (109).png>)
+![](<../../.gitbook/assets/image (111).png>)
 
 ### Leggings
 
-![](<../../.gitbook/assets/image (126).png>)
+![](<../../.gitbook/assets/image (128).png>)
 
 ### Boots
 
-![](<../../.gitbook/assets/image (30).png>)
+![](<../../.gitbook/assets/image (31).png>)
 
 ## Weapon
 
 ### Sword
 
-![](<../../.gitbook/assets/image (55).png>)
+![](<../../.gitbook/assets/image (57).png>)
 
 ## Tools
 
@@ -32,8 +32,8 @@
 
 ### Axe
 
-![](<../../.gitbook/assets/image (53).png>)
+![](<../../.gitbook/assets/image (55).png>)
 
 ### Shovel
 
-![](<../../.gitbook/assets/image (96).png>)
+![](<../../.gitbook/assets/image (98).png>)
