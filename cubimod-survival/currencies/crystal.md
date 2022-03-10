@@ -16,7 +16,7 @@ You can purchase crystals at our [store](https://cubivalcraft.com/shop).
 
 
 
-Next, you can also acquire crystals by opening crates. For example, wooden crates, iron crates, and diamond crates.
+Next, you can also acquire crystals by opening crates. For example, wooden crates, iron crates, battlepass, vote
 
 ![Mystery Crates (/warp crates)](<../../.gitbook/assets/image (14).png>)
 
