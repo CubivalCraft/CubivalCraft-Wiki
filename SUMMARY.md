@@ -1,12 +1,7 @@
 # Table of contents
 
 * [👋 CubivalCraft](README.md)
-* [💳 Payment](payment.md)
 * [📺 Tutorial](tutorial.md)
-
-## 🪓 Survival
-
-* [📔 Information](survival/information.md)
 
 ## 👾 CUBIMOD (Survival)
 
