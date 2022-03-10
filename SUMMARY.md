@@ -24,7 +24,7 @@
   * [💵 Dollar](cubimod-survival/currencies/dollar.md)
   * [💎 Crystal](cubimod-survival/currencies/crystal.md)
 * [🚶♂ NPC](cubimod-survival/npc/README.md)
-  * [Page 1](cubimod-survival/npc/page-1.md)
+  * [Bartender](cubimod-survival/npc/bartender.md)
 
 ## OLD DOCS
 
