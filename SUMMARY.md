@@ -9,6 +9,7 @@
   * [🟢 How to Enable](cubimod-survival/resource-pack-info/how-to-enable.md)
   * [🔴 How to Disable](cubimod-survival/resource-pack-info/how-to-disable.md)
 * [📚 Recipe](cubimod-survival/recipe/README.md)
+  * [Warped Stick](cubimod-survival/recipe/warped-stick.md)
   * [Steel](cubimod-survival/recipe/steel.md)
   * [Cobalt](cubimod-survival/recipe/cobalt.md)
   * [Mythril](cubimod-survival/recipe/mythril.md)
