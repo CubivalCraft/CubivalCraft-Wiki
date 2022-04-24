@@ -10,7 +10,7 @@ Introducing custom food that fills more hunger and saturation.
 
 ![](<../../.gitbook/assets/image (47).png>)
 
-Type of [Currency](../../cubimod-survival/currencies/) = "[Coin](../../cubimod-survival/currencies/coin.md)"
+Type of [Currency](broken-reference) = "[Coin](../currencies/coin.md)"
 
 ## Hunger Points Refill
 

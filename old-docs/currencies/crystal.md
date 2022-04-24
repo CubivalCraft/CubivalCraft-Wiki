@@ -2,7 +2,7 @@
 
 ## Introduction
 
-"Crystal" is a virtual and top-up [currency](./).
+"Crystal" is a virtual and top-up [currency](broken-reference).
 
 ![Crystal](<../../.gitbook/assets/pixil-frame-0 (6).png>)
 

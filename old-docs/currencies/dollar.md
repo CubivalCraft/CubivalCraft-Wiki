@@ -2,7 +2,7 @@
 
 ## Introduction
 
-"Dollar" is a physical and item type [currency](./). A stack of "[Coins](coin.md)" is equivalent to one "Dollar".
+"Dollar" is a physical and item type [currency](broken-reference). A stack of "[Coins](coin.md)" is equivalent to one "Dollar".
 
 ![Dollar](<../../.gitbook/assets/pixil-frame-0 (5).png>)
 

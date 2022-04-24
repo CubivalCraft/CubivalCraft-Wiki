@@ -23,7 +23,7 @@ There are 4 types of charcoal:
 
 ![](<../.gitbook/assets/image (53).png>)
 
-8x Coals + 1x [Dollar](../cubimod-survival/currencies/dollar.md) = Any Charcoals
+8x Coals + 1x [Dollar](currencies/dollar.md) = Any Charcoals
 
 ### Cooking Recipes
 

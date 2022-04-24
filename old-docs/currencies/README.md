@@ -1,5 +1,7 @@
 # 🪙 Currencies
 
+
+
 There are four types of currencies in the game:-
 
 * Money

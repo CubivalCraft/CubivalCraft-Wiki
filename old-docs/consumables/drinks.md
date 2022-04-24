@@ -8,7 +8,7 @@ Introducing custom drinks that fill thirst.
 
 ### ![](<../../.gitbook/assets/image (131) (1).png>)
 
-Type of [Currency](../../cubimod-survival/currencies/) = "[Coin](../../cubimod-survival/currencies/coin.md)"
+Type of [Currency](broken-reference) = "[Coin](../currencies/coin.md)"
 
 ## Thirst Points Refill
 
