@@ -6,9 +6,9 @@ Introducing custom food that fills more hunger and saturation.
 
 ### [Vending Machine](food.md#undefined) Trades
 
-![](<../../.gitbook/assets/image (56).png>)
+![](<../../.gitbook/assets/image (32).png>)
 
-![](<../../.gitbook/assets/image (47).png>)
+![](<../../.gitbook/assets/image (85).png>)
 
 Type of [Currency](broken-reference) = "[Coin](../currencies/coin.md)"
 

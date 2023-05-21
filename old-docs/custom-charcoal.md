@@ -7,7 +7,23 @@ There are 4 types of charcoal:
 * Wisteria Charcoal
 * Maple Charcoal
 
-![Twilight Charcoal](<../.gitbook/assets/pixil-frame-0 (7).png>) ![Sakura Charcoal](<../.gitbook/assets/pixil-frame-0 (10).png>) ![Wisteria Charcoal](<../.gitbook/assets/pixil-frame-0 (9).png>) ![Maple Charcoal](<../.gitbook/assets/pixil-frame-0 (8).png>)
+<div align="center">
+
+<img src="../.gitbook/assets/pixil-frame-0 (7).png" alt="Twilight Charcoal">
+
+ 
+
+<img src="../.gitbook/assets/pixil-frame-0 (10).png" alt="Sakura Charcoal">
+
+ 
+
+<img src="../.gitbook/assets/pixil-frame-0 (9).png" alt="Wisteria Charcoal">
+
+ 
+
+<img src="../.gitbook/assets/pixil-frame-0 (8).png" alt="Maple Charcoal">
+
+</div>
 
 ## Functions
 
@@ -17,11 +33,15 @@ There are 4 types of charcoal:
 
 ### [Blacksmith](broken-reference) Trading
 
-![Trading NPC at the blacksmith](<../.gitbook/assets/image (94).png>)
+![Trading NPC at the blacksmith](<../.gitbook/assets/image (127).png>)
 
 #### Trade Examples
 
-![](<../.gitbook/assets/image (53).png>)
+<div align="left">
+
+<img src="../.gitbook/assets/image (75).png" alt="">
+
+</div>
 
 8x Coals + 1x [Dollar](currencies/dollar.md) = Any Charcoals
 
@@ -29,16 +49,32 @@ There are 4 types of charcoal:
 
 #### Maple Log
 
-![](<../.gitbook/assets/image (19).png>)
+<div align="left">
+
+<img src="../.gitbook/assets/image (12).png" alt="">
+
+</div>
 
 #### Sakura Log
 
-![](<../.gitbook/assets/image (124).png>)
+<div align="left">
+
+<img src="../.gitbook/assets/image (121).png" alt="">
+
+</div>
 
 #### Wisteria Log
 
-![](<../.gitbook/assets/image (137) (1).png>)
+<div align="left">
+
+<img src="../.gitbook/assets/image (146).png" alt="">
+
+</div>
 
 #### Twilight Log
 
-![](<../.gitbook/assets/image (22).png>)
+<div align="left">
+
+<img src="../.gitbook/assets/image (41).png" alt="">
+
+</div>

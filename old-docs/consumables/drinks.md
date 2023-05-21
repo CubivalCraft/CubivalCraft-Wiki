@@ -6,7 +6,7 @@ Introducing custom drinks that fill thirst.
 
 ### [Vending Machine](drinks.md#vending-machine-trades) Trades
 
-### ![](<../../.gitbook/assets/image (131) (1).png>)
+### ![](<../../.gitbook/assets/image (145).png>)
 
 Type of [Currency](broken-reference) = "[Coin](../currencies/coin.md)"
 
