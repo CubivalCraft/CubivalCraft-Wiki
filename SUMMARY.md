@@ -15,10 +15,6 @@
   * [Mythril](cubimod-survival/recipe/mythril.md)
   * [Adamantite](cubimod-survival/recipe/adamantite.md)
   * [Vibranium](cubimod-survival/recipe/vibranium.md)
-  * [Furniture](cubimod-survival/recipe/furniture.md)
-  * [Garden](cubimod-survival/recipe/garden.md)
-  * [Shop](cubimod-survival/recipe/shop.md)
-  * [Shield](cubimod-survival/recipe/shield.md)
 
 ## OLD DOCS
 
@@ -35,3 +31,7 @@
   * [🪙 Coin](old-docs/currencies/coin.md)
 * [Fun Command](https://cubivalcraft.com/fun/)
 * [Custom Enchant](https://cubivalcraft.com/customenchant)
+* [Shield](old-docs/shield.md)
+* [Shop](old-docs/shop.md)
+* [Garden](old-docs/garden.md)
+* [Furniture](old-docs/furniture.md)

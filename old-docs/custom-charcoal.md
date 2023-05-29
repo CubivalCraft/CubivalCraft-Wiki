@@ -27,7 +27,7 @@ There are 4 types of charcoal:
 
 ## Functions
 
-<table><thead><tr><th>Type of Charcoal</th><th>Fuel Time (seconds)</th><th>Cook Time (seconds)</th><th data-type="checkbox">Furnace</th><th data-type="checkbox">Smoker</th><th data-type="checkbox">Blast Furnace</th></tr></thead><tbody><tr><td>Twilight</td><td>320</td><td>128</td><td>true</td><td>false</td><td>false</td></tr><tr><td>Sakura</td><td>160</td><td>128</td><td>true</td><td>true</td><td>false</td></tr><tr><td>Wisteria</td><td>160</td><td>128</td><td>true</td><td>false</td><td>true</td></tr><tr><td>Maple</td><td>160</td><td>128</td><td>false</td><td>true</td><td>true</td></tr></tbody></table>
+<table><thead><tr><th width="150">Type of Charcoal</th><th width="150">Fuel Time (seconds)</th><th width="150">Cook Time (seconds)</th><th width="150" data-type="checkbox">Furnace</th><th width="150" data-type="checkbox">Smoker</th><th data-type="checkbox">Blast Furnace</th></tr></thead><tbody><tr><td>Twilight</td><td>320</td><td>128</td><td>true</td><td>false</td><td>false</td></tr><tr><td>Sakura</td><td>160</td><td>128</td><td>true</td><td>true</td><td>false</td></tr><tr><td>Wisteria</td><td>160</td><td>128</td><td>true</td><td>false</td><td>true</td></tr><tr><td>Maple</td><td>160</td><td>128</td><td>false</td><td>true</td><td>true</td></tr></tbody></table>
 
 ## How to obtain it?
 
