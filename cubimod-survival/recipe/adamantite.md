@@ -10,7 +10,7 @@
 
 ### Chestplate
 
-![](<../../.gitbook/assets/image (2).png>)
+![](<../../.gitbook/assets/image (2) (1).png>)
 
 ### Leggings
 
@@ -24,4 +24,4 @@
 
 ### Sword
 
-![](<../../.gitbook/assets/image (3).png>)
+![](<../../.gitbook/assets/image (3) (1).png>)

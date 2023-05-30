@@ -1,5 +1,9 @@
 # Mythril
 
+## Scrap to Ingot
+
+![](../../.gitbook/assets/image.png)
+
 ## Armor
 
 ### Helmet
