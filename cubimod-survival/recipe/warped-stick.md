@@ -1,3 +1,3 @@
 # Warped Stick
 
-![](<../../.gitbook/assets/image (73).png>)
+![](<../../.gitbook/assets/image (133).png>)

@@ -1,3 +1,0 @@
-# Bartender
-
-/warp Bartender

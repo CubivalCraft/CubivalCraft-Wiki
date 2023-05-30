@@ -32,7 +32,7 @@
 
 ### Axe
 
-![](<../../.gitbook/assets/image (133).png>)
+![](<../../.gitbook/assets/image (133) (1).png>)
 
 ### Shovel
 
