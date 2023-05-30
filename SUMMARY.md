@@ -34,3 +34,7 @@
   * [🪙 Coin](old-docs/currencies/coin.md)
 * [Fun Command](https://cubivalcraft.com/fun/)
 * [Custom Enchant](https://cubivalcraft.com/customenchant)
+
+***
+
+* [How to play?](how-to-play.md)
