@@ -17,6 +17,10 @@
   * [Adamantite](cubimod-survival/recipe/adamantite.md)
   * [Vibranium](cubimod-survival/recipe/vibranium.md)
 
+## 🧸 Furniture
+
+* [How to get furniture?](furniture/how-to-get-furniture.md)
+
 ## OLD DOCS
 
 * [🧈 Consumables](old-docs/consumables/README.md)
