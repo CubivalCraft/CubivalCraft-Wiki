@@ -5,6 +5,7 @@
 
 ## 👾 CUBIMOD (Survival)
 
+* [How to play?](cubimod-survival/how-to-play.md)
 * [🌳 Resource Pack Info](cubimod-survival/resource-pack-info/README.md)
   * [🟢 How to Enable](cubimod-survival/resource-pack-info/how-to-enable.md)
   * [🔴 How to Disable](cubimod-survival/resource-pack-info/how-to-disable.md)
@@ -34,7 +35,3 @@
   * [🪙 Coin](old-docs/currencies/coin.md)
 * [Fun Command](https://cubivalcraft.com/fun/)
 * [Custom Enchant](https://cubivalcraft.com/customenchant)
-
-***
-
-* [How to play?](how-to-play.md)
