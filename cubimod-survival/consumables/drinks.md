@@ -8,7 +8,7 @@ Introducing custom drinks that fill thirst.
 
 ### ![](<../../.gitbook/assets/image (145).png>)
 
-Type of [Currency](broken-reference) = "[Coin](../currencies/coin.md)"
+Type of [Currency](broken-reference) = "[Coin](../../old-docs/currencies/coin.md)"
 
 ## Thirst Points Refill
 

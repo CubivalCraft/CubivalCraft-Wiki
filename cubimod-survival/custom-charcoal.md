@@ -43,7 +43,7 @@ There are 4 types of charcoal:
 
 </div>
 
-8x Coals + 1x [Dollar](currencies/dollar.md) = Any Charcoals
+8x Coals + 1x [Dollar](../old-docs/currencies/dollar.md) = Any Charcoals
 
 ### Cooking Recipes
 

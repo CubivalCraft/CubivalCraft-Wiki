@@ -10,7 +10,7 @@ Introducing custom food that fills more hunger and saturation.
 
 ![](<../../.gitbook/assets/image (85).png>)
 
-Type of [Currency](broken-reference) = "[Coin](../currencies/coin.md)"
+Type of [Currency](broken-reference) = "[Coin](../../old-docs/currencies/coin.md)"
 
 ## Hunger Points Refill
 
