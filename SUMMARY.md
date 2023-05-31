@@ -21,6 +21,7 @@
   * [Mythril](cubimod-survival/recipe/mythril.md)
   * [Adamantite](cubimod-survival/recipe/adamantite.md)
   * [Vibranium](cubimod-survival/recipe/vibranium.md)
+* [Custom Enchant](https://cubivalcraft.xyz/customenchant)
 
 ## 🧸 Furniture
 
@@ -34,4 +35,3 @@
   * [💎 Crystal](old-docs/currencies/crystal.md)
   * [🪙 Coin](old-docs/currencies/coin.md)
 * [Fun Command](https://cubivalcraft.com/fun/)
-* [Custom Enchant](https://cubivalcraft.com/customenchant)
