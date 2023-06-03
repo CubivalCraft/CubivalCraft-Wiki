@@ -28,4 +28,4 @@ Next, you can also acquire crystals by opening crates. For example, wooden crate
 
 Outside the shop, you will find a trading NPC. You can trade crystals for "[Money](money.md)" and diamond crate keys.
 
-![Crystal Shop NPC](<../../.gitbook/assets/image (110).png>)
+![Crystal Shop NPC](<../../.gitbook/assets/image (110) (1).png>)

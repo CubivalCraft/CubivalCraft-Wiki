@@ -8,7 +8,7 @@ You can download our resourcespack at [`Download`](https://cubivalcraft.com/reso
 
 ![](<../../.gitbook/assets/image (74).png>)
 
-![](<../../.gitbook/assets/image (116).png>)
+![](<../../.gitbook/assets/image (116) (1).png>)
 
-![](<../../.gitbook/assets/image (105).png>)
+![](<../../.gitbook/assets/image (105) (1).png>)
 

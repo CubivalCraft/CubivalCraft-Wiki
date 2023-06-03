@@ -20,7 +20,7 @@ You can use "Money" to buy items from the server shop.
 
 <div align="center">
 
-<img src="../../.gitbook/assets/image (152).png" alt="Server Auction House (/ah)">
+<img src="../../.gitbook/assets/image (152) (1).png" alt="Server Auction House (/ah)">
 
 </div>
 
