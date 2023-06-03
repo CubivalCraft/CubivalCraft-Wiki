@@ -14,6 +14,7 @@
   * [🍞 Food](cubimod-survival/consumables/food.md)
   * [🍺 Drinks](cubimod-survival/consumables/drinks.md)
 * [📚 Recipe](cubimod-survival/recipe/README.md)
+  * [Page 1](cubimod-survival/recipe/page-1.md)
   * [How to get them?](cubimod-survival/recipe/how-to-get-them.md)
   * [Warped Stick](cubimod-survival/recipe/warped-stick.md)
   * [Steel](cubimod-survival/recipe/steel.md)
