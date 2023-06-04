@@ -28,7 +28,7 @@
   * [Mythril](cubimod-survival/custom-ores/mythril.md)
   * [Adamantite](cubimod-survival/custom-ores/adamantite.md)
   * [Vibranium](cubimod-survival/custom-ores/vibranium.md)
-* [🔧 Custom Enchant](https://ae.advancedplugins.net/enchantments/list-of-enchantments/default-enchants-200+)
+* [🔧 Custom Enchant](cubimod-survival/custom-enchant.md)
 
 ## 🧸 Furniture
 
