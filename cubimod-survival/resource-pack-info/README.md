@@ -2,5 +2,5 @@
 coverY: 0
 ---
 
-# 🌳 Resource Pack Info
+# ℹ Resource Pack Info
 

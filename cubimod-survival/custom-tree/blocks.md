@@ -16,6 +16,6 @@ You may obtain [saplings](./) of the tree by breaking the leaves if you are luck
 {% endtab %}
 
 {% tab title="Leaves" %}
-<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td></td><td><img src="../../.gitbook/assets/image (121).png" alt=""></td><td>Sakura Leaves</td></tr><tr><td></td><td><img src="../../.gitbook/assets/image (155).png" alt=""></td><td>Wisteria Leaves</td></tr><tr><td></td><td><img src="../../.gitbook/assets/image.png" alt=""></td><td>Twilight Leaves</td></tr><tr><td></td><td><img src="../../.gitbook/assets/image (112).png" alt=""></td><td>Maple Leaves</td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td></td><td><img src="../../.gitbook/assets/image (121).png" alt=""></td><td>Sakura Leaves</td></tr><tr><td></td><td><img src="../../.gitbook/assets/image (155).png" alt=""></td><td>Wisteria Leaves</td></tr><tr><td></td><td><img src="../../.gitbook/assets/image (101).png" alt=""></td><td>Twilight Leaves</td></tr><tr><td></td><td><img src="../../.gitbook/assets/image (112).png" alt=""></td><td>Maple Leaves</td></tr></tbody></table>
 {% endtab %}
 {% endtabs %}
