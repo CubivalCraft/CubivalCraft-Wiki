@@ -3,6 +3,10 @@
 * [👋 CubivalCraft](README.md)
 * [📺 Tutorial](tutorial.md)
 
+## Minecraft
+
+* [🛑 Entities Limit](minecraft/entities-limit.md)
+
 ## 👾 CUBIMOD (Survival)
 
 * [🎮 How to play?](cubimod-survival/how-to-play.md)
