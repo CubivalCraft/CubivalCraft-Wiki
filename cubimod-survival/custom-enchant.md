@@ -38,7 +38,6 @@
 | Curse            | Chance to give your enemy mining fatigue.                                                    |              Armor             | Elite     | 2         |
 | Deadshot         | Headshots with tridents deal double damage.                                                  |             Trident            | Legendary | 5         |
 | Death Punch      | Increases damage dealt to Zombies.                                                           |          Swords, Axes          | Simple    | 5         |
-| Decapitation     | Chance to have opponents head drop on death.                                                 |          Swords, Axes          | Simple    | 3         |
 | Deranged         | Strike lightning at nearby players.                                                          |             Swords             | Legendary | 3         |
 | Devour           | Chance to restore food while killing mobs.                                                   |             Weapons            | Unique    | 3         |
 | Diminish         | Chance to give your enemy mining fatigue.                                                    |              Axes              | Ultimate  | 1         |
@@ -176,5 +175,4 @@
 | Voodoo           | Gives a chance to deal weakness.                                                             |              Armor             | Elite     | 6         |
 | Ward             | A chance to absorb enemy damage                                                              |              Armor             | Unique    | 4         |
 | Water Walker     | Walk on Water.                                                                               |              Boots             | Legendary | 1         |
-| Wings            | Allows flying when worn.                                                                     |              Boots             | Legendary | 1         |
 | Wither           | A chance to give the wither effect.                                                          |              Armor             | Elite     | 5         |
