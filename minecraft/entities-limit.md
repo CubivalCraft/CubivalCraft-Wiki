@@ -5,7 +5,7 @@
 * Distance: 30
 * Max: 12
 
-![:cc\_iconreply:](https://cdn.discordapp.com/emojis/1057565353540071424.webp?size=44\&quality=lossless) Entities: horse, donkey, mule, llama, trader\_llama (Each
+![:cc\_iconreply:](https://cdn.discordapp.com/emojis/1057565353540071424.webp?size=44\&quality=lossless) Entities: horse, donkey, mule, llama, trader\_llama (Each)
 
 * Distance: 30
 * Max: 15

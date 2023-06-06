@@ -5,6 +5,7 @@
 
 ## Minecraft
 
+* [❓ FAQ](minecraft/faq.md)
 * [🛑 Entities Limit](minecraft/entities-limit.md)
 
 ## 👾 CUBIMOD (Survival)
