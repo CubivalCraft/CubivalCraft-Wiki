@@ -5,6 +5,7 @@
 
 ## Minecraft
 
+* [Bank Upgrade](minecraft/bank-upgrade.md)
 * [Rankup](minecraft/rankup.md)
 * [❓ FAQ](minecraft/faq.md)
 * [🛑 Entities Limit](minecraft/entities-limit.md)
