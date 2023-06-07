@@ -14,3 +14,5 @@
 **Regular & Others ranks (Included donor)**
 
 * Unlock all player warp command
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Original from: <a href="https://www.spigotmc.org/resources/%E2%AD%90-player-warps-%E2%AD%90-%E2%9E%A2-let-your-players-set-warps-1-7-1-19.66692/">https://www.spigotmc.org/resources/%E2%AD%90-player-warps-%E2%AD%90-%E2%9E%A2-let-your-players-set-warps-1-7-1-19.66692/</a></p></figcaption></figure>
