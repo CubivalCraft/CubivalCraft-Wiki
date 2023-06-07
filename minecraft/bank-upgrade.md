@@ -36,15 +36,18 @@ Interest: "2%"&#x20;
 Cost: "150000"&#x20;
 
 Offline-Interest: "0%"&#x20;
+
+5: Capacity: "300000"&#x20;
 {% endhint %}
 
 {% hint style="info" %}
-```
-5: Capacity: "300000" 
-Interest: "2%" 
-Cost: "170000" 
+5: Capacity: "300000"
+
+Interest: "2%"
+
+Cost: "170000"
+
 Offline-Interest: "1%"
-```
 {% endhint %}
 
 {% hint style="info" %}
