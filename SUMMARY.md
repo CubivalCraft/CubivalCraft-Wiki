@@ -5,6 +5,7 @@
 
 ## Minecraft
 
+* [Playerwarp](minecraft/playerwarp.md)
 * [Bank Upgrade](minecraft/bank-upgrade.md)
 * [Rankup](minecraft/rankup.md)
 * [❓ FAQ](minecraft/faq.md)
