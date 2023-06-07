@@ -5,6 +5,7 @@
 
 ## Minecraft
 
+* [Rankup](minecraft/rankup.md)
 * [❓ FAQ](minecraft/faq.md)
 * [🛑 Entities Limit](minecraft/entities-limit.md)
 
