@@ -6,16 +6,6 @@
 Interest: "1%"&#x20;
 
 Offline-Interest: "0%"&#x20;
-
-4: Capacity: "250000" Interest: "2%" Cost: "150000" Offline-Interest: "0%"&#x20;
-
-5: Capacity: "300000" Interest: "2%" Cost: "170000" Offline-Interest: "1%"&#x20;
-
-6: Capacity: "300000" Interest: "2.3%" Cost: "270000" Offline-Interest: "1.3%"&#x20;
-
-7: Capacity: "350000" Interest: "2.6%" Cost: "280000" Offline-Interest: "1.6%"&#x20;
-
-8: Capacity: "420000" Interest: "3%" Cost: "350000" Offline-Interest: "2%"
 {% endhint %}
 
 {% hint style="info" %}
@@ -48,11 +38,41 @@ Cost: "150000"&#x20;
 Offline-Interest: "0%"&#x20;
 {% endhint %}
 
-{% code fullWidth="false" %}
-```yaml
+{% hint style="info" %}
+```
 5: Capacity: "300000" 
 Interest: "2%" 
 Cost: "170000" 
-Offline-Interest: "1%" 
+Offline-Interest: "1%"
 ```
-{% endcode %}
+{% endhint %}
+
+{% hint style="info" %}
+6: Capacity: "300000"&#x20;
+
+Interest: "2.3%"&#x20;
+
+Cost: "270000"&#x20;
+
+Offline-Interest: "1.3%"&#x20;
+{% endhint %}
+
+{% hint style="info" %}
+7: Capacity: "350000"&#x20;
+
+Interest: "2.6%"&#x20;
+
+Cost: "280000"&#x20;
+
+Offline-Interest: "1.6%"&#x20;
+{% endhint %}
+
+{% hint style="info" %}
+8: Capacity: "420000"&#x20;
+
+Interest: "3%"&#x20;
+
+Cost: "350000"&#x20;
+
+Offline-Interest: "2%"
+{% endhint %}
