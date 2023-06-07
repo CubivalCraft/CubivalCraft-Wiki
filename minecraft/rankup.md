@@ -12,27 +12,4 @@
 
 
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><p></p><p><strong>New - 0 Votes</strong></p><p>Commands:</p><ul class="contains-task-list"><li><input type="checkbox" checked>/back</li></ul></td><td></td><td></td></tr><tr><td></td><td><p><strong>Player - 12 Votes</strong></p><p>Commands:</p><ul class="contains-task-list"><li><input type="checkbox" checked>/back</li><li><input type="checkbox" checked>/chatcolor</li></ul><p>Perks</p><ul class="contains-task-list"><li><input type="checkbox" checked>x1 Tags Crate Key</li></ul></td><td></td></tr><tr><td></td><td><p><strong>Regular - 70 Votes</strong></p><p>Commands:</p><ul class="contains-task-list"><li><input type="checkbox" checked>/chatcolor</li></ul><p>Perks:</p><ul class="contains-task-list"><li><input type="checkbox" checked>Break &#x26; Place Spawner Permission</li><li><input type="checkbox" checked>+50 XP Levels</li><li><input type="checkbox" checked>+2000 Claim Blocks</li><li><input type="checkbox" checked>+3 Tags Crate Keys</li></ul></td><td></td></tr></tbody></table>
-
-
-
-**Regular - 70 Votes**
-
-Commands:
-
-* [x] /chatcolor
-
-Perks:
-
-* [x] Break & Place Spawner Permission
-* [x] \+50 XP Levels
-* [x] \+2000 Claim Blocks
-* [x] \+3 Tags Crate Keys
-
-**Elder**
-
-**Veteran**
-
-**Survivor**
-
-**Legend**
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><p></p><p><strong>New - 0 Votes</strong></p><p>Commands:</p><ul class="contains-task-list"><li><input type="checkbox" checked>/back</li></ul></td><td></td><td></td></tr><tr><td></td><td><p><strong>Player - 12 Votes</strong></p><p>Perks</p><ul class="contains-task-list"><li><input type="checkbox" checked>x1 Tags Crate Key</li></ul></td><td></td></tr><tr><td></td><td><p><strong>Regular - 70 Votes</strong></p><p>Perks:</p><ul class="contains-task-list"><li><input type="checkbox" checked>Break &#x26; Place Spawner Permission</li><li><input type="checkbox" checked>+50 XP Levels</li><li><input type="checkbox" checked>+2000 Claim Blocks</li><li><input type="checkbox" checked>+3 Tags Crate Keys</li></ul></td><td></td></tr><tr><td><p></p><p><strong>Elder- 250 Votes</strong></p><p>Commands:</p><ul class="contains-task-list"><li><input type="checkbox" checked>/hat</li></ul><p>Perks:</p><ul class="contains-task-list"><li><input type="checkbox" checked>x2 /sethome</li><li><input type="checkbox" checked>+100 XP Levels</li><li><input type="checkbox" checked>+1 Elytra</li></ul></td><td></td><td></td></tr><tr><td></td><td><p><strong>Veteran - 500 Votes</strong></p><p>Commands:</p><ul class="contains-task-list"><li><input type="checkbox" checked>/nick (No Colors)</li></ul><p>Perks:</p><ul class="contains-task-list"><li><input type="checkbox" checked>+250 XP Levels</li><li><input type="checkbox" checked>+1 Special Crate Keys</li></ul></td><td></td></tr><tr><td></td><td><p><strong>Survivor - 1000 Votes</strong></p><p>Commands:</p><ul class="contains-task-list"><li><input type="checkbox" checked>/nick (Colors)</li></ul><p>Perks:</p><ul class="contains-task-list"><li><input type="checkbox" checked>x3 /sethome</li><li><input type="checkbox" checked>+400 XP Levels</li><li><input type="checkbox" checked>+2 Special Crate Key</li><li><input type="checkbox" checked>+2 Spawner Crate Key</li></ul></td><td></td></tr><tr><td></td><td><p><strong>Elder - 2000 Votes</strong></p><p>Commands:</p><ul class="contains-task-list"><li><input type="checkbox" checked>/craft</li><li><input type="checkbox" checked>/condense</li><li><input type="checkbox" checked>/stonecutter</li></ul><p>Perks:</p><ul class="contains-task-list"><li><input type="checkbox" checked>x4 /sethome</li><li><input type="checkbox" checked>+400 XP Levels</li><li><input type="checkbox" checked>+2 Special Crate Key</li><li><input type="checkbox" checked>+1 Spawner Crate Key</li></ul></td><td></td></tr></tbody></table>
