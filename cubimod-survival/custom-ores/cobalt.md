@@ -1,10 +1,6 @@
 # Cobalt
 
-## Block
 
-![](<../../.gitbook/assets/image (66).png>)
-
-![](<../../.gitbook/assets/image (5).png>)
 
 ## Armor
 

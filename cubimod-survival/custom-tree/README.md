@@ -14,7 +14,7 @@ There are 4 types of trees:
 
 {% tabs %}
 {% tab title="Twilight Tree" %}
-<figure><img src="../../.gitbook/assets/image (87).png" alt="" width="563"><figcaption><p>Twilight Tree</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (87) (2).png" alt="" width="563"><figcaption><p>Twilight Tree</p></figcaption></figure>
 {% endtab %}
 
 {% tab title="Sakura Tree" %}

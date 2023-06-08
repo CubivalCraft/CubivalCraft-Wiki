@@ -1,5 +1,13 @@
 # Vibranium
 
+**Vibranium Sheet to Vibranium Scrap**
+
+![](<../../.gitbook/assets/image (2).png>)
+
+**Vibranium Scrap to Vibranium Ingot**
+
+![](<../../.gitbook/assets/image (88).png>)
+
 ## Armor
 
 ### Helmet
