@@ -1,7 +1,7 @@
 # Bank Upgrade
 
 {% hint style="info" %}
-1: Capacity: "100000"&#x20;
+1: Capacity: "50000"&#x20;
 
 Interest: "1%"&#x20;
 

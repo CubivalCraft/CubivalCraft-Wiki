@@ -10,7 +10,7 @@ How to get steel ingot? [Here.](how-to-get-them.md)
 
 ### Axe
 
-![](<../../../.gitbook/assets/image (4).png>)
+![](<../../../.gitbook/assets/image (4) (1).png>)
 
 ### Shovel
 
