@@ -30,7 +30,7 @@ How to get steel ingot? [Here.](how-to-get-them.md)
 
 ### Leggings
 
-![](<../../../.gitbook/assets/image (92) (1) (1).png>)
+![](<../../../.gitbook/assets/image (92) (1) (1) (1).png>)
 
 ### Boots
 
@@ -40,4 +40,4 @@ How to get steel ingot? [Here.](how-to-get-them.md)
 
 ## Block
 
-![](<../../../.gitbook/assets/image (88) (1) (1).png>)
+![](<../../../.gitbook/assets/image (88) (1) (1) (1).png>)

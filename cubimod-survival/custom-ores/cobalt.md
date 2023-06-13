@@ -6,7 +6,7 @@
 
 ### Helmet
 
-![](<../../.gitbook/assets/image (93) (1).png>)
+![](<../../.gitbook/assets/image (93) (1) (1).png>)
 
 ### Chestplate
 
@@ -30,7 +30,7 @@
 
 ### Pickaxe
 
-![](<../../.gitbook/assets/image (89) (1) (1).png>)
+![](<../../.gitbook/assets/image (89) (1) (1) (1).png>)
 
 ### Axe
 

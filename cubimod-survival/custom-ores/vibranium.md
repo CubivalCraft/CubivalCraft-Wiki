@@ -6,7 +6,7 @@
 
 **Vibranium Scrap to Vibranium Ingot**
 
-![](<../../.gitbook/assets/image (88).png>)
+![](<../../.gitbook/assets/image (88) (1).png>)
 
 ## Armor
 

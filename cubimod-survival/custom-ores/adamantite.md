@@ -4,7 +4,7 @@
 
 ## **Adamantite Ingot (Work at Furnance/Blast Furnance)**
 
-![](<../../.gitbook/assets/image (87).png>)
+![](<../../.gitbook/assets/image (87) (1).png>)
 
 
 
