@@ -2,7 +2,7 @@
 
 ## Scrap to Ingot
 
-![](../../.gitbook/assets/image.png)
+![](<../../.gitbook/assets/image (7).png>)
 
 ## Armor
 

@@ -25,6 +25,7 @@
   * [❔ How to obtain them?](cubimod-survival/custom-charcoal/how-to-obtain-them.md)
   * [📕 Cooking Recipes](cubimod-survival/custom-charcoal/cooking-recipes.md)
 * [🥪 Custom Food](cubimod-survival/custom-food.md)
+* [☕ Custom Beverage](cubimod-survival/custom-beverage.md)
 * [🍲 Custom Utensils](cubimod-survival/custom-utensils/README.md)
   * [❔ How to obtain them?](cubimod-survival/custom-utensils/how-to-obtain-them.md)
 * [🥕 Custom Ingredients](cubimod-survival/custom-ingredients.md)
