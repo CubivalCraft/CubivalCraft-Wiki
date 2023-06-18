@@ -38,4 +38,4 @@
 
 ### Shovel
 
-![](<../../.gitbook/assets/image (45).png>)
+![](<../../.gitbook/assets/image (45) (1).png>)

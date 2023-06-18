@@ -2,7 +2,7 @@
 
 ## Scrap to Ingot
 
-![](<../../.gitbook/assets/image (5).png>)
+![](<../../.gitbook/assets/image (5) (2).png>)
 
 ## Armor
 
@@ -40,4 +40,4 @@
 
 ### Shovel
 
-![](<../../.gitbook/assets/image (47).png>)
+![](<../../.gitbook/assets/image (47) (1).png>)
