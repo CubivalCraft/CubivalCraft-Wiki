@@ -54,4 +54,3 @@
 * [🧈 Consumables (Old)](old-docs/consumables-old/README.md)
   * [🍞 Food (Old)](old-docs/consumables-old/food-old.md)
   * [🍺 Drinks (Old)](old-docs/consumables-old/drinks-old.md)
-* [Fun Command](https://cubivalcraft.com/fun/)
