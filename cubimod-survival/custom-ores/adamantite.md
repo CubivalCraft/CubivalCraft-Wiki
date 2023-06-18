@@ -12,7 +12,7 @@
 
 ### Helmet
 
-![](<../../.gitbook/assets/image (14).png>)
+![](<../../.gitbook/assets/image (14) (1).png>)
 
 ### Chestplate
 
@@ -24,7 +24,7 @@
 
 ### Boots
 
-![](<../../.gitbook/assets/image (44) (1).png>)
+![](<../../.gitbook/assets/image (44).png>)
 
 ## Weapon
 

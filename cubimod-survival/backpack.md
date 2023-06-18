@@ -2,28 +2,28 @@
 
 **Small Ender Backpack**
 
-![](<../.gitbook/assets/image (3).png>)
+![](<../.gitbook/assets/image (15).png>)
 
 **Small Brown Backpack**
 
-![](<../.gitbook/assets/image (49).png>)
+![](<../.gitbook/assets/image (9).png>)
 
 **Strange Backpack**
 
-![](<../.gitbook/assets/image (50).png>)
+![](<../.gitbook/assets/image (10).png>)
 
 **Wood Backpack**
 
-![](<../.gitbook/assets/image (1).png>)
+![](<../.gitbook/assets/image (11).png>)
 
 **Stone Backpack**
 
-![](<../.gitbook/assets/image (4).png>)
+![](<../.gitbook/assets/image (13).png>)
 
 **Redstone Backpack**
 
-![](<../.gitbook/assets/image (2).png>)
+![](<../.gitbook/assets/image (12).png>)
 
 **Minerals Backpack**
 
-![](../.gitbook/assets/image.png)
+![](<../.gitbook/assets/image (14).png>)

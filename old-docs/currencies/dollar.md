@@ -22,7 +22,7 @@ Then, find the trading NPC in the bar. You can trade 64x "Coins" for 1x "Dollar"
 \*Note\* Once "Coins" are converted into "Dollar", they cannot be traded back into "Coins"
 {% endhint %}
 
-![Trading NPC in the bar](<../../.gitbook/assets/image (46) (1).png>)
+![Trading NPC in the bar](<../../.gitbook/assets/image (46).png>)
 
 ## Where to use it?
 
