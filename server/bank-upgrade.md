@@ -1,4 +1,4 @@
-# Bank Upgrade
+# 💳 Bank Upgrade
 
 {% hint style="info" %}
 1: Capacity: "50000"&#x20;

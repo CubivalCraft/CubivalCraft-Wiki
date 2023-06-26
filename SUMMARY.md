@@ -5,10 +5,10 @@
 
 ## SERVER
 
-* [❓ \[FAQ\] Frequently Asked Question](https://www.cubivalcraft.xyz/faq)
-* [Playerwarp](server/playerwarp.md)
-* [Bank Upgrade](server/bank-upgrade.md)
-* [Rankup](server/rankup.md)
+* [❓ FAQ](https://www.cubivalcraft.xyz/faq)
+* [🛒 Playerwarp](server/playerwarp.md)
+* [💳 Bank Upgrade](server/bank-upgrade.md)
+* [🆙 Rankup](server/rankup.md)
 * [🛑 Entities Limit](server/entities-limit.md)
 
 ## 👾 CUBIMOD (Survival)
