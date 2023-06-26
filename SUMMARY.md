@@ -3,13 +3,13 @@
 * [👋 CubivalCraft](README.md)
 * [📺 Tutorial](tutorial.md)
 
-## Minecraft
+## SERVER
 
-* [Playerwarp](minecraft/playerwarp.md)
-* [Bank Upgrade](minecraft/bank-upgrade.md)
-* [Rankup](minecraft/rankup.md)
-* [❓ FAQ](minecraft/faq.md)
-* [🛑 Entities Limit](minecraft/entities-limit.md)
+* [Playerwarp](server/playerwarp.md)
+* [Bank Upgrade](server/bank-upgrade.md)
+* [Rankup](server/rankup.md)
+* [❓ FAQ](server/faq.md)
+* [🛑 Entities Limit](server/entities-limit.md)
 
 ## 👾 CUBIMOD (Survival)
 
