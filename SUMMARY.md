@@ -13,7 +13,7 @@
 
 ## 👾 CUBIMOD (Survival)
 
-* [🎮 How to play?](cubimod-survival/how-to-play.md)
+* [🎮 How To Play](https://www.cubivalcraft.xyz/ciguide)
 * [ℹ Resource Pack Info](cubimod-survival/resource-pack-info/README.md)
   * [🟢 How to Enable](cubimod-survival/resource-pack-info/how-to-enable.md)
   * [🔴 How to Disable](cubimod-survival/resource-pack-info/how-to-disable.md)
