@@ -37,7 +37,7 @@
   * [Adamantite](cubimod-survival/custom-ores/adamantite.md)
   * [Vibranium](cubimod-survival/custom-ores/vibranium.md)
 * [🔧 Custom Enchant](cubimod-survival/custom-enchant.md)
-* [Fishing](cubimod-survival/fishing.md)
+* [🎣 Fishing](cubimod-survival/fishing.md)
 
 ## 🧸 Furniture
 
