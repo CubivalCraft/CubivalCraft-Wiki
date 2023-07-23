@@ -12,6 +12,8 @@
 
 ## 👾 CUBIMOD (Survival)
 
+* [🎇 Other Recipes](cubimod-survival/other-recipes/README.md)
+  * [🍎 Enchanted Golden Apple](cubimod-survival/other-recipes/enchanted-golden-apple.md)
 * [🎮 How To Play](https://www.cubivalcraft.xyz/ciguide)
 * [ℹ Resource Pack Info](cubimod-survival/resource-pack-info/README.md)
   * [🟢 How to Enable](cubimod-survival/resource-pack-info/how-to-enable.md)
