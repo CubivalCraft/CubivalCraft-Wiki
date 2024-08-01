@@ -5,24 +5,21 @@
 
 ## SERVER
 
-* [❓ FAQ](https://www.cubivalcraft.xyz/faq)
-* [🛒 Playerwarp](server/playerwarp.md)
-* [🆙 Rankup](server/rankup.md)
-* [🛑 Entities Limit](server/entities-limit.md)
+* [❓ FAQ](https://www.cubivalcraft.net/faq)
+* [ℹ️ Resource Pack Info](server/resource-pack-info/README.md)
+  * [🟢 How to Enable](server/resource-pack-info/how-to-enable.md)
+  * [🔴 How to Disable](server/resource-pack-info/how-to-disable.md)
 
 ## 👾 CUBIMOD (Survival)
 
 * [🎇 Other Recipes](cubimod-survival/other-recipes/README.md)
   * [🍎 Enchanted Golden Apple](cubimod-survival/other-recipes/enchanted-golden-apple.md)
 * [🎮 How To Play](https://www.cubivalcraft.xyz/ciguide)
-* [ℹ Resource Pack Info](cubimod-survival/resource-pack-info/README.md)
-  * [🟢 How to Enable](cubimod-survival/resource-pack-info/how-to-enable.md)
-  * [🔴 How to Disable](cubimod-survival/resource-pack-info/how-to-disable.md)
 * [🌳 Custom Tree](cubimod-survival/custom-tree/README.md)
   * [❔ How to obtain them?](cubimod-survival/custom-tree/how-to-obtain-them.md)
   * [🧊 Blocks](cubimod-survival/custom-tree/blocks.md)
 * [🔥 Custom Charcoal](cubimod-survival/custom-charcoal/README.md)
-  * [⚙ Functions](cubimod-survival/custom-charcoal/functions.md)
+  * [⚙️ Functions](cubimod-survival/custom-charcoal/functions.md)
   * [❔ How to obtain them?](cubimod-survival/custom-charcoal/how-to-obtain-them.md)
   * [📕 Cooking Recipes](cubimod-survival/custom-charcoal/cooking-recipes.md)
 * [🥪 Custom Food](cubimod-survival/custom-food.md)
@@ -55,3 +52,9 @@
 * [🧈 Consumables (Old)](old-docs/consumables-old/README.md)
   * [🍞 Food (Old)](old-docs/consumables-old/food-old.md)
   * [🍺 Drinks (Old)](old-docs/consumables-old/drinks-old.md)
+
+## ⚔️ CubiMod (Survival)
+
+* [🛒 Playerwarp](cubimod-survival-1/playerwarp.md)
+* [🆙 Rankup](cubimod-survival-1/rankup.md)
+* [🐄 Entities Limit](cubimod-survival-1/entities-limit.md)
