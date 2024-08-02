@@ -1,28 +1,21 @@
 # 🎣 Custom Fishing
 
-<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
-
-## &#x20;                                                Custom Fish
-
-| **You can sell the custom or vanilla fish by typing /sellfish.** |
-| ---------------------------------------------------------------- |
-
-
+## &#x20;                                                  Custom Fish
 
 {% tabs %}
 {% tab title="Fishing Rod" %}
-<table><thead><tr><th>Preview</th><th width="202">Name</th><th width="368">Description</th><th width="291">Effects</th><th width="168">Requirements</th><th>Durability\</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (10).png" alt="" data-size="original"></td><td>Beginner's Fishing Rod</td><td><p>- Specially designed for those new to the art</p><p>- of fishing, the Beginner's Fishing Rod is a</p><p>- novice angler's best friend.</p></td><td><p>- Increase the hook time</p><p>- Reduces the challenge of fishing</p></td><td></td><td>64</td></tr><tr><td><img src="../.gitbook/assets/image (11).png" alt="" data-size="original"></td><td>Silver Fishing Rod</td><td><p>- Elegantly crafted with a gleaming finish, the</p><p>- Silver Star Fishing Rod is the dream of every </p><p>- angler seeking silver-star quality fish.</p></td><td><p></p><ul><li>Increase the chance of getting silver star fish</li></ul></td><td></td><td>96</td></tr><tr><td><img src="../.gitbook/assets/image (12).png" alt="" data-size="original"></td><td>Star Fishing Rod</td><td><p>- Carved from stardust and bathed in cosmic energy,</p><p>- the Star Fishing Rod is a testament to the wonders</p><p>- of the universe. Its endless magical reservoir ensures</p><p>- that time seems to stand still, granting anglers what</p><p>- feels like an eternity to perfect their catch.</p></td><td><p></p><ul><li>+15s Game Time</li></ul></td><td>128</td><td></td></tr></tbody></table>
+<table><thead><tr><th width="110">Preview</th><th width="148">Name</th><th width="189">Description</th><th width="185">Effects</th><th width="118">Requirements</th><th align="center">Durability</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (88).png" alt="" data-size="line"></td><td>Beginner's Fishing Rod</td><td><p>- Specially designed for those new to the art</p><p>- of fishing, the Beginner's Fishing Rod is a</p><p>- novice angler's best friend.</p></td><td><p>- Increase the hook time</p><p>- Reduces the challenge of fishing</p></td><td></td><td align="center">64</td></tr><tr><td><img src="../.gitbook/assets/image (11).png" alt="" data-size="line"></td><td>Silver Fishing Rod</td><td><p>- Elegantly crafted with a gleaming finish, the</p><p>- Silver Star Fishing Rod is the dream of every </p><p>- angler seeking silver-star quality fish.</p></td><td><p></p><ul><li>Increase the chance of getting silver star fish</li></ul></td><td></td><td align="center">96</td></tr><tr><td><img src="../.gitbook/assets/image (12).png" alt="" data-size="line"></td><td>Star Fishing Rod</td><td><p>- Carved from stardust and bathed in cosmic energy,</p><p>- the Star Fishing Rod is a testament to the wonders</p><p>- of the universe. Its endless magical reservoir ensures</p><p>- that time seems to stand still, granting anglers what</p><p>- feels like an eternity to perfect their catch.</p></td><td><p></p><ul><li>+15s Game Time</li></ul></td><td>128</td><td align="center"></td></tr><tr><td><img src="../.gitbook/assets/image (89).png" alt="" data-size="line"></td><td>Bone Fishing Rod</td><td><p>- Forged from the bones of age-old skeletons and</p><p>- imbued with dark enchantments, the Skeleton Fishing</p><p>- Rod is not for the faint-hearted. It allows the</p><p>- brave or the mad to fish within the scorching</p><p>- confines of lava, defying the usual limitations of </p><p>- regular rods.</p></td><td><p>- Fishing in lava</p><p>- Sometimes skeleton would grab the hook<br></p></td><td></td><td align="center">32</td></tr><tr><td><img src="../.gitbook/assets/image (90).png" alt="" data-size="line"></td><td>Magical Fishing Rod</td><td><p>- A product of arcane innovation, this unique</p><p>- fishing rod uses enchanted books as bait.</p><p>- Its intricate reel mechanism and magical</p><p>- allure demand the exp level of its user,</p><p>- consuming experience levels upon each cast.</p></td><td><p>- Get an enchantment book from fishing.</p><p>- Require a long time to get hooked.</p></td><td><p>- 1x book bait</p><p>- 10 exp levels<br></p></td><td align="center">16<br></td></tr><tr><td><img src="../.gitbook/assets/image (91).png" alt="" data-size="original"></td><td>Master's Fishing Rod</td><td><p>- Wielded only by the most skilled of anglers,</p><p>- the Master's Fishing Rod represents the pinnacle</p><p>- of fishing craftsmanship. Meticulously crafted</p><p>- for precision, it significantly reduces the </p><p>- time it takes for a fish to bite.</p></td><td><p>- Reduce the hook time</p><p>- Increase the challenge of fishing</p><p>- Higher chance of getting quality fish</p></td><td></td><td align="center">128</td></tr></tbody></table>
 {% endtab %}
 
-{% tab title="Untitled" %}
+{% tab title="Bait & Utils" %}
+<table><thead><tr><th align="center">Preview </th><th width="140" align="center">Name</th><th width="345" align="center">Description</th><th align="center">Effects</th></tr></thead><tbody><tr><td align="center"><img src="../.gitbook/assets/image (92).png" alt="" data-size="line"></td><td align="center">Magnetic Lures</td><td align="center"><p>- Its radiant shimmer and unique energy pulse</p><p>- prove irresistible to curious fish, drawing</p><p>- them in with unprecedented speed. This is </p><p>- not just a bait, it''s a spectacle that fish</p><p>- can''t help but investigate.</p></td><td align="center"><p>Reduce hook time</p><p></p><p>More time for fishing</p></td></tr><tr><td align="center"><img src="../.gitbook/assets/image (93).png" alt="" data-size="line"></td><td align="center">Simple Lures</td><td align="center"><p>- Made from natural ingredients, it attracts</p><p>- fish in a calm and steady manner. It''s the</p><p>- go-to choice for those who prefer a </p><p>- straightforward and reliable fishing experience.</p></td><td align="center"><p></p><p>Reduce fishing difficulty</p></td></tr><tr><td align="center"><img src="../.gitbook/assets/image (171).png" alt="" data-size="line"></td><td align="center">Wild Lures</td><td align="center"><p>- Crafted for the fearless angler, the Wild </p><p>- Attraction Bait is an infusion of potent </p><p>- natural ingredients, exuding an irresistible</p><p>- aroma for large aquatic beasts.</p></td><td align="center"><p>Increase fishing difficulty</p><p></p><p>Increase the size of fish caught</p></td></tr></tbody></table>
+{% endtab %}
 
+{% tab title="Hook" %}
+<table><thead><tr><th align="center">Preview</th><th align="center">Name</th><th width="365">Description</th><th align="center">Effects</th></tr></thead><tbody><tr><td align="center"><img src="../.gitbook/assets/image (207).png" alt="" data-size="line"></td><td align="center">Delicate Hook</td><td><p>- An embodiment of craftsmanship and allure, the hook</p><p>- is not your average piece of tackle. Polished to</p><p>- perfection and intricately designed, it gleams in the</p><p>- water, irresistibly drawing high-quality fish closer.</p></td><td align="center">Increase the chance of getting high quality fish</td></tr></tbody></table>
 {% endtab %}
 {% endtabs %}
 
-
-
-|   |   |   |
-| - | - | - |
-|   |   |   |
-|   |   |   |
-|   |   |   |
+{% hint style="info" %}
+You can sell the custom or vanilla fish by typing /sellfish
+{% endhint %}

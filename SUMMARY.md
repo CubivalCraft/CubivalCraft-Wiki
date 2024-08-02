@@ -35,14 +35,16 @@
 * [🛒 Playerwarp](cubimod-survival/playerwarp.md)
 * [🆙 Rankup](cubimod-survival/rankup.md)
 * [🐄 Entities Limit](cubimod-survival/entities-limit.md)
+* [🔧 Custom Enchant](cubimod-survival/custom-enchant.md)
 * [🎣 Custom Fishing](cubimod-survival/custom-fishing.md)
 * [🥕 Custom Ingredients](cubimod-survival/custom-ingredients.md)
 * [🥪 Custom Food](cubimod-survival/custom-food.md)
 * [☕ Custom Beverage](cubimod-survival/custom-beverage.md)
+* [⌨️ Commands](cubimod-survival/commands.md)
+* [Custom Ore Guide](cubimod-survival/custom-ore-guide.md)
 
 ## 👾 CUBIMOD (Survival) \[OUTDATED]
 
-* [🔧 Custom Enchant](cubimod-survival-outdated/custom-enchant.md)
 * [🪙 Currencies](cubimod-survival-outdated/currencies/README.md)
   * [💰 Money](cubimod-survival-outdated/currencies/money.md)
   * [💵 Dollar](cubimod-survival-outdated/currencies/dollar.md)
