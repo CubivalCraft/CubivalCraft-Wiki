@@ -54,3 +54,7 @@
   * [🍞 Food (Old)](cubimod-survival-outdated/consumables-old/food-old.md)
   * [🍺 Drinks (Old)](cubimod-survival-outdated/consumables-old/drinks-old.md)
 * [How to get furniture?](cubimod-survival-outdated/how-to-get-furniture.md)
+
+## ⛏️ CubiMod (Skyblock
+
+* [Standings](cubimod-skyblock/standings.md)
