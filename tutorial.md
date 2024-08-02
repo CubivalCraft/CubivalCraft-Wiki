@@ -1,9 +1,7 @@
 # 📺 Tutorial
 
-<mark style="color:blue;">**How to use chestshop?**</mark>
 
-{% embed url="https://youtu.be/EnQ0oNH18KE" %}
 
-<mark style="color:blue;">**How to make elevator?**</mark>
+{% embed url="https://www.youtube.com/watch?embeds_referring_euri=https://www.cubivalcraft.net/&source_ve_path=MjM4NTE&v=EnQ0oNH18KE" %}
 
-{% embed url="https://www.youtube.com/watch?v=N69o-uYXZEU" %}
+{% embed url="https://www.youtube.com/watch?v=ZUD1I6xd9xQ" %}
