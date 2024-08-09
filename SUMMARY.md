@@ -57,4 +57,6 @@
 
 ## ⛏️ CubiMod (Skyblock
 
+* [🎣 Custom Fishing](cubimod-skyblock/custom-fishing.md)
+* [🔧 Custom Enchant](cubimod-skyblock/custom-enchant.md)
 * [Standings](cubimod-skyblock/standings.md)
