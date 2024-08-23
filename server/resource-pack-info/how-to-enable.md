@@ -1,6 +1,6 @@
 # 🟢 How to Enable
 
-[<mark style="color:red;">**Optifine is required!**</mark>](https://optifine.net/downloads)
+[<mark style="color:red;">**Optifine is**</mark>](https://optifine.net/downloads) <mark style="color:red;">**no longer required. But it's still recommended to install for better gaming experience!**</mark>
 
 {% hint style="info" %}
 How to Enable server resources pack?
