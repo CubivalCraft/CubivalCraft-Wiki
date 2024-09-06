@@ -34,3 +34,8 @@ Entities (Vehicle): minecart, minecart chest, minecart command, minecart, mineca
 
 * Distance: 30 blocks
 * Max: 24
+
+Entities: armor stand
+
+* Distance: 30 blocks
+* Max: 15
