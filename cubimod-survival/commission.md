@@ -33,6 +33,12 @@ What is Commission? How does it work?
 <figure><img src="../.gitbook/assets/2024-09-07_17.47.43.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
+**Rewards**
+{% endhint %}
+
+<figure><img src="../.gitbook/assets/2024-09-07_17.52.38.png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
 **Standings Information**
 {% endhint %}
 
