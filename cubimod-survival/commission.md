@@ -14,10 +14,10 @@ What is Commission? How does it work?
 4. For example, if you want to do a **Hunter task**, press the **Diamond Sword (Hunter).**
 5. Your screen should then display this menu&#x20;
 6. Find the "Tasks" button (Book and Quill).
-7. In the Tasks menu, you can start selling the items you have. There is a daily limit of 15,000 points.
+7. In the Tasks menu, you can start selling the items you have. There is a daily limit of 15,000 points for each task/class.
 
 {% hint style="info" %}
-**Please remember that each task has their own pts (points)**
+**Please remember that each task/class has their own points. (PTS = POINTS)**
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/2024-09-07_17.42.44.png" alt=""><figcaption><p>2) You will see a menu</p></figcaption></figure>
