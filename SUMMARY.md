@@ -42,6 +42,7 @@
 * [☕ Custom Beverage](cubimod-survival/custom-beverage.md)
 * [⌨️ Commands](cubimod-survival/commands.md)
 * [Custom Ore Guide](cubimod-survival/custom-ore-guide.md)
+* [Commission](cubimod-survival/commission.md)
 
 ## 👾 CUBIMOD (Survival) \[OUTDATED]
 
@@ -59,4 +60,6 @@
 
 * [🎣 Custom Fishing](cubimod-skyblock/custom-fishing.md)
 * [🔧 Custom Enchant](cubimod-skyblock/custom-enchant.md)
+* [💎 Custom Ore](cubimod-skyblock/custom-ore/README.md)
+  * [Page 1](cubimod-skyblock/custom-ore/page-1.md)
 * [Standings](cubimod-skyblock/standings.md)
