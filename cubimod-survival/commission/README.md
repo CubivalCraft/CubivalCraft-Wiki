@@ -20,26 +20,26 @@ What is Commission? How does it work?
 **Please remember that each task/class has their own points. (PTS = POINTS)**
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/2024-09-07_17.42.44.png" alt=""><figcaption><p>2) You will see a menu</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/2024-09-07_17.42.44.png" alt=""><figcaption><p>2) You will see a menu</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/2024-09-07_17.41.42 (2).png" alt=""><figcaption><p>For example, if you want to do a <strong>Hunter task</strong>, press the <strong>Diamond Sword (Hunter).</strong></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/2024-09-07_17.41.42 (2).png" alt=""><figcaption><p>For example, if you want to do a <strong>Hunter task</strong>, press the <strong>Diamond Sword (Hunter).</strong></p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/2024-09-07_17.47.07.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/2024-09-07_17.47.07.png" alt=""><figcaption></figcaption></figure>
 
 * Emerald: <mark style="color:blue;">**Sell 1**</mark>
 * Emerald Block: <mark style="color:purple;">**Sell 64**</mark>
 * Paper: <mark style="color:orange;">**Sell All**</mark>
 
-<figure><img src="../.gitbook/assets/2024-09-07_17.47.43.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/2024-09-07_17.47.43.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 **Rewards**
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/2024-09-07_17.52.38.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/2024-09-07_17.52.38.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 **Standings Information**
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/2024-09-07_17.49.59.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/2024-09-07_17.49.59.png" alt=""><figcaption></figcaption></figure>

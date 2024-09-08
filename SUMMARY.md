@@ -42,7 +42,8 @@
 * [☕ Custom Beverage](cubimod-survival/custom-beverage.md)
 * [⌨️ Commands](cubimod-survival/commands.md)
 * [Custom Ore Guide](cubimod-survival/custom-ore-guide.md)
-* [Commission](cubimod-survival/commission.md)
+* [Commission](cubimod-survival/commission/README.md)
+  * [Common Issues](cubimod-survival/commission/common-issues.md)
 
 ## 👾 CUBIMOD (Survival) \[OUTDATED]
 
