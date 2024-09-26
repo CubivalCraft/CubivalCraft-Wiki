@@ -66,3 +66,4 @@
   * [Clestrium Ore](cubimod-skyblock/custom-ore/clestrium-ore.md)
   * [Endium Ore](cubimod-skyblock/custom-ore/endium-ore.md)
 * [Standings](cubimod-skyblock/standings.md)
+* [Generator Rates](cubimod-skyblock/generator-rates.md)
