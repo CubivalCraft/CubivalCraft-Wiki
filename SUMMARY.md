@@ -42,8 +42,8 @@
 * [☕ Custom Beverage](cubimod-survival/custom-beverage.md)
 * [⌨️ Commands](cubimod-survival/commands.md)
 * [Custom Ore Guide](cubimod-survival/custom-ore-guide.md)
-* [Commission](cubimod-survival/commission/README.md)
-  * [Common Issues](cubimod-survival/commission/common-issues.md)
+* [Commission / Standings](cubimod-survival/commission-standings/README.md)
+  * [Common Issues](cubimod-survival/commission-standings/common-issues.md)
 
 ## 👾 CUBIMOD (Survival) \[OUTDATED]
 
@@ -65,5 +65,6 @@
   * [Steel Ore](cubimod-skyblock/custom-ore/steel-ore.md)
   * [Clestrium Ore](cubimod-skyblock/custom-ore/clestrium-ore.md)
   * [Endium Ore](cubimod-skyblock/custom-ore/endium-ore.md)
-* [Standings](cubimod-skyblock/standings.md)
+* [Commission / Standings](cubimod-skyblock/commission-standings/README.md)
+  * [Common Issues](cubimod-skyblock/commission-standings/common-issues.md)
 * [Generator Rates](cubimod-skyblock/generator-rates.md)

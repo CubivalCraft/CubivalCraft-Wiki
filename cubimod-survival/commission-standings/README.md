@@ -1,4 +1,4 @@
-# Commission
+# Commission / Standings
 
 What is Commission? How does it work?
 
@@ -10,7 +10,7 @@ What is Commission? How does it work?
 
 1. To access the commission menu, use the command `/standings.`
 2. You will see a menu.
-3. In the menu, we have _**Hunter, Miner, Fisherman, and Farmer.**_
+3. In the menu, we have _**Hunter, and Miner.**_
 4. For example, if you want to do a **Hunter task**, press the **Diamond Sword (Hunter).**
 5. Your screen should then display this menu&#x20;
 6. Find the "Tasks" button (Book and Quill).
