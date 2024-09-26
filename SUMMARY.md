@@ -62,5 +62,7 @@
 * [🎣 Custom Fishing](cubimod-skyblock/custom-fishing.md)
 * [🔧 Custom Enchant](cubimod-skyblock/custom-enchant.md)
 * [💎 Custom Ore](cubimod-skyblock/custom-ore/README.md)
-  * [Page 1](cubimod-skyblock/custom-ore/page-1.md)
+  * [Steel Ore](cubimod-skyblock/custom-ore/steel-ore.md)
+  * [Clestrium Ore](cubimod-skyblock/custom-ore/clestrium-ore.md)
+  * [Endium Ore](cubimod-skyblock/custom-ore/endium-ore.md)
 * [Standings](cubimod-skyblock/standings.md)
