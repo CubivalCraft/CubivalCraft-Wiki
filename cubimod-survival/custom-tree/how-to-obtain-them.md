@@ -16,7 +16,7 @@ Currently, players can only obtain custom trees like Maple, Twilight, Wisteria, 
 
 <div align="center" data-full-width="true">
 
-<figure><img src="../../.gitbook/assets/image.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 </div>
 
