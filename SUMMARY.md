@@ -65,6 +65,8 @@
   * [Steel Ore](cubimod-skyblock/custom-ore/steel-ore.md)
   * [Clestrium Ore](cubimod-skyblock/custom-ore/clestrium-ore.md)
   * [Endium Ore](cubimod-skyblock/custom-ore/endium-ore.md)
+* [Spawners](cubimod-skyblock/spawners/README.md)
+  * [Essence & Shards](cubimod-skyblock/spawners/essence-and-shards.md)
 * [Commission / Standings](cubimod-skyblock/commission-standings/README.md)
   * [Common Issues](cubimod-skyblock/commission-standings/common-issues.md)
 * [Generator Rates](cubimod-skyblock/generator-rates.md)
