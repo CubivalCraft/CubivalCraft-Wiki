@@ -1,7 +1,3 @@
----
-icon: suitcase
----
-
 # Spawner Cage
 
 <figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption><p>Steel Ingot</p></figcaption></figure>
