@@ -67,6 +67,7 @@
   * [Endium Ore](cubimod-skyblock/custom-ore/endium-ore.md)
 * [Spawners](cubimod-skyblock/spawners/README.md)
   * [Essence & Shards](cubimod-skyblock/spawners/essence-and-shards.md)
+  * [Spawner Cage](cubimod-skyblock/spawners/spawner-cage.md)
 * [Commission / Standings](cubimod-skyblock/commission-standings/README.md)
   * [Common Issues](cubimod-skyblock/commission-standings/common-issues.md)
 * [Generator Rates](cubimod-skyblock/generator-rates.md)

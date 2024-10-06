@@ -9,4 +9,4 @@
 
 * Type /standings miner, /standings hunter and /standings farmer to fix the <mark style="color:yellow;">**-1**</mark> issue.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
