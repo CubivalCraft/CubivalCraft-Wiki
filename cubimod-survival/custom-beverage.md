@@ -17,6 +17,6 @@ T = Thirst Points
 
 <figure><img src="../.gitbook/assets/image (15) (2).png" alt=""><figcaption><p>Beverages Vending Machine</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption><p>The Machines</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption><p>The Machines</p></figcaption></figure>
 {% endtab %}
 {% endtabs %}
