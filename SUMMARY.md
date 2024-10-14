@@ -71,6 +71,7 @@
 * [Minions](cubimod-skyblock/minions/README.md)
   * [Information](cubimod-skyblock/minions/information.md)
   * [Minions Store](cubimod-skyblock/minions/minions-store.md)
+  * [Feeding](cubimod-skyblock/minions/feeding.md)
   * [Minion Panel](cubimod-skyblock/minions/minion-panel/README.md)
     * [Rotate Minions](cubimod-skyblock/minions/minion-panel/rotate-minions.md)
     * [Attach a chest](cubimod-skyblock/minions/minion-panel/attach-a-chest.md)
