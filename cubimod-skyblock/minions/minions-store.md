@@ -1,15 +1,17 @@
 # Minions Store
 
-To access the minion store, you can access it by typing /minions store. You can buy these minions:
+To access the minion store, type **/minions store**. You can purchase various types of minions, including:
 
-1. Miner Minion
-2. Collector Minion
-3. Feeder Minion
-4. Fisher Minion
-5. Farmer Minion
-6. Lumberjack Minion
-7. Slayer Minion
-8. Seller Minion
+* Miner Minion
+* Collector Minion
+* Feeder Minion
+* Fisher Minion
+* Farmer Minion
+* Lumberjack Minion
+* Slayer Minion
+* Seller Minion
+
+Each minion has a specific task to help automate resource collection on your Skyblock island.
 
 
 
