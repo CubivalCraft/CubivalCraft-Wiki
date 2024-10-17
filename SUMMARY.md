@@ -79,11 +79,8 @@
   * [Common Issues](cubimod-skyblock/commission-standings/common-issues.md)
 * [Generator Rates](cubimod-skyblock/generator-rates.md)
 
-***
-
-* [Page](page.md)
-* [Page 1](page-1.md)
-
 ## CubiMod (SV-Survival)
 
 * [Entity Limit](cubimod-sv-survival/entity-limit.md)
+* [Custom Ore Guide](cubimod-sv-survival/custom-ore-guide.md)
+* [Page](cubimod-sv-survival/page.md)

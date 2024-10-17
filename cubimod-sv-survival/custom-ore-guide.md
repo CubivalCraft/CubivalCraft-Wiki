@@ -14,13 +14,13 @@ While it's not mandatory to install the server resource pack, we highly recommen
 
 Congratulations on discovering the custom ores on our server! It's an exciting find. However, it's important to note that breaking these custom ores requires specific tools.
 
-* Cobalt Ore: To break Cobalt Ore, you'll need a Steel Pickaxe.
-* Mythril Ore: To break Mythril Ore, you'll need a Cobalt Pickaxe.
-* Adamantite Ore and Vibranium Ore: To break Adamantite Ore and Vibranium Ore, you'll need a Mythril Pickaxe.
+* Meteorite Ore: To break Meteorite Ore, you'll need a Vibranium Pickaxe.
+* Celestrium Ore: To break Celestrium Ore, you'll need a Meteorite Pickaxe.
+* Endium Ore: To break Endium Ore, you'll need a Celestrium Pickaxe.
 
 
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Cobalt Ore</strong></td><td><img src="../.gitbook/assets/image (208).png" alt="" data-size="original"></td><td></td></tr><tr><td><strong>Mythril Ore</strong></td><td><img src="../.gitbook/assets/image (212).png" alt="" data-size="original"></td><td></td></tr><tr><td><strong>Adamantite Ore</strong></td><td><img src="../.gitbook/assets/image (210).png" alt="" data-size="original"></td><td></td></tr><tr><td><strong>Vibranium Ore</strong></td><td><img src="../.gitbook/assets/image (213).png" alt="" data-size="original"></td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Meteorite Ore</strong></td><td><img src="../.gitbook/assets/image (282).png" alt="" data-size="original"></td><td></td></tr><tr><td><strong>Celestrium Ore</strong></td><td><img src="../.gitbook/assets/image (281).png" alt="" data-size="original"></td><td></td></tr><tr><td><strong>Endium Ore</strong></td><td><img src="../.gitbook/assets/image (280).png" alt="" data-size="original"></td><td></td></tr></tbody></table>
 
 _**Fortune won't work on custom ore**_
 
@@ -28,15 +28,13 @@ Make sure to upgrade your pickaxe accordingly to match the requirements of each 
 
 Additionally, if you're looking to obtain raw steel, participating in the voting system is the way to go. By using the "/vote" command in the game, you can earn vote keys. These keys can be used to unlock rewards, including raw steel, from the vote party crate. Don't forget to vote regularly to increase your chances of obtaining raw steel and other valuable items.
 
-The rarity of finding mythril ore and cobalt ore is intentional and designed to make the game more challenging and rewarding. While cobalt ore may have a higher spawning chance compared to mythril ore, it is still intentionally difficult to find.
+The rarity of finding Endium ore and Meteorite ore is intentional and designed to make the game more challenging and rewarding. While Meteorite ore may have a higher spawning chance compared to Endium ore, it is still intentionally difficult to find.
 
 **What are custom ore the best?:**
 
-1. Steel&#x20;
-2. Cobalt
-3. Mythril
-4. Adamantite
-5. Vibranium
+1. Meteorite
+2. Celestrium
+3. Endium
 
 ***
 
@@ -46,9 +44,9 @@ For more specific information or further assistance, please consult the Server D
 
 ## **How to get custom ore? / Full detailed about custom ore:**
 
-Cobalt Ore:
+Meteorite Ore:
 
-Worlds: Limited to "world"
+Worlds: Limited to "world" and "resourceworld"
 
 Maximum Height: 45
 
@@ -56,29 +54,17 @@ Minimum Height: 10
 
 ***
 
-Mythril Ore:
+Celestrium Ore:
 
-Worlds: Limited to "world"
+Worlds: Limited to "world" and "resourceworld"
 
 Maximum Height: 30
 
-Minimum Height: 5
+Minimum Height: -20
 
 ***
 
-Adamantite Ore:
-
-Worlds: Limited to "world"
-
-Biomes: Limited to DESERT and DESERT\_HILLS
-
-Maximum Height: 50
-
-Minimum Height: 20
-
-***
-
-Vibranium Ore:
+Endium Ore:
 
 Worlds: Limited to "world\_nether"
 
