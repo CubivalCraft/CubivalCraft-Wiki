@@ -83,4 +83,7 @@
 
 * [Entity Limit](cubimod-sv-survival/entity-limit.md)
 * [Custom Ore Guide](cubimod-sv-survival/custom-ore-guide.md)
-* [Page](cubimod-sv-survival/page.md)
+* [💎 Custom Ore](cubimod-sv-survival/custom-ore/README.md)
+  * [Meteorite Ore](cubimod-sv-survival/custom-ore/meteorite-ore.md)
+  * [Celestrium Ore](cubimod-sv-survival/custom-ore/celestrium-ore.md)
+  * [Endium Ore](cubimod-sv-survival/custom-ore/endium-ore.md)
