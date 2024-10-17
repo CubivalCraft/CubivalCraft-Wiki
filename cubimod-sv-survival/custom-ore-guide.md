@@ -14,7 +14,7 @@ While it's not mandatory to install the server resource pack, we highly recommen
 
 Congratulations on discovering the custom ores on our server! It's an exciting find. However, it's important to note that breaking these custom ores requires specific tools.
 
-* Meteorite Ore: To break Meteorite Ore, you'll need a Vibranium Pickaxe.
+* Meteorite Ore: To break Meteorite Ore, you'll need a Netherite Pickaxe.
 * Celestrium Ore: To break Celestrium Ore, you'll need a Meteorite Pickaxe.
 * Endium Ore: To break Endium Ore, you'll need a Celestrium Pickaxe.
 
