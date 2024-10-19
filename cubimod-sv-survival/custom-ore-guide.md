@@ -16,11 +16,12 @@ Congratulations on discovering the custom ores on our server! It's an exciting f
 
 * Meteorite Ore: To break Meteorite Ore, you'll need a Netherite Pickaxe.
 * Celestrium Ore: To break Celestrium Ore, you'll need a Meteorite Pickaxe.
-* Endium Ore: To break Endium Ore, you'll need a Celestrium Pickaxe.
+* Infernium Ore: To break Infernium Ore, you'll need a Celestrium Pickaxe.
+* Endium Ore: To break Endium Ore, you'll need a Infernium Pickaxe.
 
 
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Meteorite Ore</strong></td><td><img src="../.gitbook/assets/image (282).png" alt="" data-size="original"></td><td></td></tr><tr><td><strong>Celestrium Ore</strong></td><td><img src="../.gitbook/assets/image (281).png" alt="" data-size="original"></td><td></td></tr><tr><td><strong>Endium Ore</strong></td><td><img src="../.gitbook/assets/image (280).png" alt="" data-size="original"></td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Meteorite Ore</strong></td><td><img src="../.gitbook/assets/image (282).png" alt="" data-size="original"></td><td></td></tr><tr><td><strong>Celestrium Ore</strong></td><td><img src="../.gitbook/assets/image (281).png" alt="" data-size="original"></td><td></td></tr><tr><td><strong>Infernium Ore</strong></td><td><img src="../.gitbook/assets/image (283).png" alt="" data-size="original"></td><td></td></tr><tr><td><strong>Endium Ore</strong></td><td><img src="../.gitbook/assets/image (280).png" alt="" data-size="original"></td><td></td></tr></tbody></table>
 
 _**Fortune won't work on custom ore**_
 
@@ -34,7 +35,8 @@ The rarity of finding Endium ore and Meteorite ore is intentional and designed t
 
 1. Meteorite
 2. Celestrium
-3. Endium
+3. Infernium
+4. Endium
 
 ***
 
@@ -64,10 +66,21 @@ Minimum Height: -20
 
 ***
 
-Endium Ore:
+Infernium Ore:
 
-Worlds: Limited to "world\_nether"
+Worlds: Limited to "Nether"
 
 Maximum Height: 120
 
 Minimum Height: 85
+
+***
+
+Endium Ore:
+
+Worlds: Limited to "The End"
+
+Maximum Height: 46
+
+Minimum Height: 40
+
