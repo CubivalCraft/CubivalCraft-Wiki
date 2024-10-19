@@ -1,6 +1,6 @@
 # Meteorite Ore
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Meteorite Ore</strong></td><td><img src="../../.gitbook/assets/image (5).png" alt="" data-size="original"></td><td></td></tr><tr><td><strong>Block of Meteor</strong>ite</td><td><img src="../../.gitbook/assets/image (6).png" alt="" data-size="original"></td><td></td></tr><tr><td><strong>Raw Meteorite</strong></td><td><img src="../../.gitbook/assets/image (9).png" alt="" data-size="original"></td><td></td></tr><tr><td><strong>Meteorite Ingot</strong></td><td><img src="../../.gitbook/assets/image (8).png" alt="" data-size="original"></td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Meteorite Ore</strong></td><td><img src="../../.gitbook/assets/image (5) (1).png" alt="" data-size="original"></td><td></td></tr><tr><td><strong>Block of Meteor</strong>ite</td><td><img src="../../.gitbook/assets/image (6) (1).png" alt="" data-size="original"></td><td></td></tr><tr><td><strong>Raw Meteorite</strong></td><td><img src="../../.gitbook/assets/image (9) (1).png" alt="" data-size="original"></td><td></td></tr><tr><td><strong>Meteorite Ingot</strong></td><td><img src="../../.gitbook/assets/image (8) (1).png" alt="" data-size="original"></td><td></td></tr></tbody></table>
 
 
 
@@ -8,15 +8,15 @@
 
 {% tabs %}
 {% tab title="Smelt Raw Meteorite" %}
-<figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (11) (1).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="Meteorite Block" %}
-<figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (12) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (13) (1).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
@@ -26,7 +26,7 @@
 
 {% tabs %}
 {% tab title="Meteorite Pickaxe" %}
-<figure><img src="../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (14) (1).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="Fix Meteorite Pickaxe" %}
