@@ -61,3 +61,51 @@
 <figure><img src="../../.gitbook/assets/image (284).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
+
+
+
+**Armors**
+
+{% tabs %}
+{% tab title="Meteorite Helmet" %}
+<figure><img src="../../.gitbook/assets/image (285).png" alt=""><figcaption></figcaption></figure>
+{% endtab %}
+
+{% tab title="Fix Meteorite Helmet" %}
+<figure><img src="../../.gitbook/assets/image (287).png" alt=""><figcaption></figcaption></figure>
+{% endtab %}
+{% endtabs %}
+
+{% tabs %}
+{% tab title="Meteorite Chestplate" %}
+
+
+<figure><img src="../../.gitbook/assets/image (286).png" alt=""><figcaption></figcaption></figure>
+{% endtab %}
+
+{% tab title="Fix Meteorite Chestplate" %}
+<figure><img src="../../.gitbook/assets/image (289).png" alt=""><figcaption></figcaption></figure>
+{% endtab %}
+{% endtabs %}
+
+{% tabs %}
+{% tab title="Meteorite Leggings" %}
+<figure><img src="../../.gitbook/assets/image (290).png" alt=""><figcaption></figcaption></figure>
+{% endtab %}
+
+{% tab title="Fix Meteorite Leggings" %}
+<figure><img src="../../.gitbook/assets/image (291).png" alt=""><figcaption></figcaption></figure>
+{% endtab %}
+{% endtabs %}
+
+
+
+{% tabs %}
+{% tab title="Meteorite Boots" %}
+<figure><img src="../../.gitbook/assets/image (292).png" alt=""><figcaption></figcaption></figure>
+{% endtab %}
+
+{% tab title="Fix Meteorite Boots" %}
+<figure><img src="../../.gitbook/assets/image (293).png" alt=""><figcaption></figcaption></figure>
+{% endtab %}
+{% endtabs %}
