@@ -6,7 +6,7 @@ Introducing custom food that fills more hunger and saturation.
 
 ### [Vending Machine](food-old.md#undefined) Trades
 
-![](<../../.gitbook/assets/image (32).png>)
+![](<../../.gitbook/assets/image (32) (1).png>)
 
 ![](<../../.gitbook/assets/image (85).png>)
 

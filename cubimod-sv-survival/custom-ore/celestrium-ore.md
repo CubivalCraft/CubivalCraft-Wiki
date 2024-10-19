@@ -8,7 +8,7 @@
 
 {% tabs %}
 {% tab title="Smelt Raw Celestrium" %}
-<figure><img src="../../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
@@ -55,5 +55,53 @@
 
 {% tab title="Fix Celestrium Shovel" %}
 <figure><img src="../../.gitbook/assets/image (13) (1).png" alt=""><figcaption></figcaption></figure>
+{% endtab %}
+{% endtabs %}
+
+
+
+**Armors**
+
+{% tabs %}
+{% tab title="Celestrium Helmet" %}
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+{% endtab %}
+
+{% tab title="Fix Celestrium Helmet" %}
+
+{% endtab %}
+{% endtabs %}
+
+{% tabs %}
+{% tab title="Celestrium Chestplate" %}
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+{% endtab %}
+
+{% tab title="Fix Celestrium Chestplate" %}
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+{% endtab %}
+{% endtabs %}
+
+
+
+{% tabs %}
+{% tab title="Celestrium Leggings" %}
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+{% endtab %}
+
+{% tab title="Fix Celestrium Leggings" %}
+<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+{% endtab %}
+{% endtabs %}
+
+
+
+{% tabs %}
+{% tab title="Celestrium Boots" %}
+<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+{% endtab %}
+
+{% tab title="Fix Celestrium Boots" %}
+<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
