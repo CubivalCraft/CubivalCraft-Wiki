@@ -86,4 +86,5 @@
 * [💎 Custom Ore](cubimod-sv-survival/custom-ore/README.md)
   * [Meteorite Ore](cubimod-sv-survival/custom-ore/meteorite-ore.md)
   * [Celestrium Ore](cubimod-sv-survival/custom-ore/celestrium-ore.md)
+  * [Infernium Ore](cubimod-sv-survival/custom-ore/infernium-ore.md)
   * [Endium Ore](cubimod-sv-survival/custom-ore/endium-ore.md)

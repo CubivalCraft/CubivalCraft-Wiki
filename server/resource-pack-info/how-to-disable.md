@@ -6,7 +6,7 @@
 How to Disable server resources pack?
 {% endhint %}
 
-![](<../../.gitbook/assets/image (16) (1).png>)
+![](<../../.gitbook/assets/image (16) (1) (1).png>)
 
 ![](../../.gitbook/assets/Untitled.png)
 
