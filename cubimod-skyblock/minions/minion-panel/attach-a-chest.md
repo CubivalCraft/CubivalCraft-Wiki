@@ -1,6 +1,6 @@
 # Attach a chest
 
-<figure><img src="../../../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 To link a chest, left-click the hopper and then right-click the chest you want to link. This will connect the hopper to the chest for automatic storage.
 

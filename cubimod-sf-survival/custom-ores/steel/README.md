@@ -6,7 +6,7 @@
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (15) (1).png" alt="x1 Iron Block, x4 Netherite Ingot"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (15) (1) (1).png" alt="x1 Iron Block, x4 Netherite Ingot"><figcaption></figcaption></figure>
 
 </div>
 
@@ -14,7 +14,7 @@
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (17) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (17) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -56,7 +56,7 @@
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (14) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (14) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 

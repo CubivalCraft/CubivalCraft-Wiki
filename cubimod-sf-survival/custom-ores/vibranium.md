@@ -2,7 +2,7 @@
 
 #### **Vibranium Sheet to Vibranium Scrap**
 
-![](<../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1).png>)
 
 #### **Vibranium Scrap to Vibranium Ingot**
 
