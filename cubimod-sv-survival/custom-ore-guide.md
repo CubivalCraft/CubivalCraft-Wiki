@@ -29,7 +29,7 @@ Make sure to upgrade your pickaxe accordingly to match the requirements of each 
 
 Additionally, if you're looking to obtain raw steel, participating in the voting system is the way to go. By using the "/vote" command in the game, you can earn vote keys. These keys can be used to unlock rewards, including raw steel, from the vote party crate. Don't forget to vote regularly to increase your chances of obtaining raw steel and other valuable items.
 
-The rarity of finding Endium ore and Meteorite ore is intentional and designed to make the game more challenging and rewarding. While Meteorite ore may have a higher spawning chance compared to Endium ore, it is still intentionally difficult to find.
+The rarity of finding Infernium ore and Endium ore is intentional and designed to make the game more challenging and rewarding. While Infernium ore may have a higher spawning chance compared to Endium ore, it is still intentionally difficult to find.
 
 **What are custom ore the best?:**
 
