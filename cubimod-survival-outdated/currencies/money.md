@@ -26,6 +26,6 @@ You can use "Money" to buy items from the server shop.
 
 <div align="center">
 
-<img src="../../.gitbook/assets/image (20) (1) (1).png" alt="Player Shop Warp GUI (/pw)">
+<img src="../../.gitbook/assets/image (20) (1) (1) (1).png" alt="Player Shop Warp GUI (/pw)">
 
 </div>
