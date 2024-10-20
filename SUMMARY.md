@@ -81,9 +81,6 @@
 
 ## CubiMod (SV-Survival)
 
-* [Entity Limit](cubimod-sv-survival/entity-limit.md)
-* [Rankup](cubimod-sv-survival/rankup.md)
-* [Custom Ore Guide](cubimod-sv-survival/custom-ore-guide.md)
 * [💎 Custom Ore](cubimod-sv-survival/custom-ore/README.md)
   * [Meteorite Ore](cubimod-sv-survival/custom-ore/meteorite-ore.md)
   * [Celestrium Ore](cubimod-sv-survival/custom-ore/celestrium-ore.md)
@@ -93,3 +90,6 @@
   * [⚙️ Functions](cubimod-sv-survival/fuels/functions.md)
   * [❔ How to obtain them?](cubimod-sv-survival/fuels/how-to-obtain-them.md)
   * [📕 Cooking Recipes](cubimod-sv-survival/fuels/cooking-recipes.md)
+* [Entity Limit](cubimod-sv-survival/entity-limit.md)
+* [Rankup](cubimod-sv-survival/rankup.md)
+* [Custom Ore Guide](cubimod-sv-survival/custom-ore-guide.md)
